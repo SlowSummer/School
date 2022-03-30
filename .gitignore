@@ -125,8 +125,6 @@ Run_win32/Captures/*
 Run_Win32/Projects/**/Audio
 *.vcxproj
 *.filters
-*.cpp
-*.h
 *.sln
 *.recipe
 *.ilk
