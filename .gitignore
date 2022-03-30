@@ -123,3 +123,13 @@ Run_win32/Captures/*
 
 # audio
 Run_Win32/Projects/**/Audio
+*.vcxproj
+*.filters
+*.cpp
+*.h
+*.sln
+*.recipe
+*.ilk
+*.idb
+*.pdb
+*.tlog
