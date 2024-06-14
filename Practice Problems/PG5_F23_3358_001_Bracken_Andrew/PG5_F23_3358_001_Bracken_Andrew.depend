@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698384351 source:c:\users\andrew.917297\desktop\school\practice problems\pg5_f23_3358_001_bracken_andrew\pg5_f23_3358_001_bracken_andrew.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cctype>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694062033 source:c:\users\andrew.917297\desktop\school\practice problems\f2023_3358_1_bracken_andrew_pg1\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<ctime>
+	<string>
+

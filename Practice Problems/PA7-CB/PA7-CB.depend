@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701096657 source:c:\users\andrew.917297\desktop\school\practice problems\pa7-cb\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+

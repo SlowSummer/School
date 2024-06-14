@@ -1,0 +1,33 @@
+The expected output is shown below: 
+
+List1 is: 
+1.6
+4.8
+7.9
+
+After inserting 2.3 to list2, List1 is: 
+1.6
+4.8
+7.9
+
+After inserting 2.3 to list2, List2 is: 
+1.6
+2.3
+4.8
+7.9
+
+After inserting 5.5 to list4, List1 is: 
+1.6
+4.8
+7.9
+
+After inserting 5.5 to list4, List3 is: 
+1.6
+4.8
+7.9
+
+After inserting 5.5 to list4, List4 is: 
+1.6
+4.8
+5.5
+7.9

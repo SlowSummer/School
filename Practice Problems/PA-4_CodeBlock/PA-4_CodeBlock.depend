@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697393881 source:c:\users\andrew.917297\desktop\school\practice problems\pa-4_codeblock\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cctype>
+

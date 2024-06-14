@@ -1,0 +1,16 @@
+#ifndef TEST_
+#define TEST_
+
+
+class test
+{
+    public:
+        test();
+        virtual ~test();
+
+    protected:
+
+    private:
+};
+
+#endif // TEST_
