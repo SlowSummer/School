@@ -1,0 +1,97 @@
+header
+{
+    text-align: left;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+
+nav
+{
+    border: 2px solid black;
+    padding: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: 20px;
+    box-sizing: border-box;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+nav .nav-title
+{
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+nav ul
+{
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+nav ul li
+{
+    margin: 10px 0;
+}
+
+nav a
+{
+    text-decoration: none;
+    display: block;
+    padding: 5px;
+}
+
+main 
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    float: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.content p
+{
+    width: 100%;
+    border: 2px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.sidebar
+{
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+footer
+{
+    font-size: 0.8em;
+    text-align: left;
+    margin-top: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    float: left;
+    clear: both;
+}
