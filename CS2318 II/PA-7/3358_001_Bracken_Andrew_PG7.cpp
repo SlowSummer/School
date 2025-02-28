@@ -108,8 +108,7 @@ void Hash::initialGen()
 	int data; // rand value to be stored
 
 	for (int i = 0; i < 18; i++)
-	{
-		data = rand() % 6 + 164;
+	{		data = rand() % 6 + 164;
 		hash_pos = hash(data);
 
 		// linear probe on collision
